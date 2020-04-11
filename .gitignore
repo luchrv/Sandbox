@@ -20,3 +20,8 @@ phpunit.xml
 
 # Mac filesystem dust
 .DS_Store
+
+# docker-compose
+.env
+/docker-compose/data/*
+/docker-compose/logs/*
