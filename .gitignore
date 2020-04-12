@@ -22,6 +22,6 @@ phpunit.xml
 .DS_Store
 
 # docker-compose
-.env
-/docker-compose/data/*
-/docker-compose/logs/*
+/deploy/docker-compose/.env
+/deploy/docker-compose/data/*
+/deploy/docker-compose/logs/*
